@@ -129,13 +129,13 @@ npm start
 ## Screenshots
 
 ### Sign Up Page
-![Signup](highway-delite-frontend/public/signup.png)
+![Signup](public/signup.png)
 
 ### Sign In Page
-![Signin](highway-delite-frontend-frontend/public/signin.png)
+![Signin](public/signin.png)
 
 ### Dashboard Page
-![Dashboard](highway-delite-frontend-frontend/public/dashboard.png)
+![Dashboard](public/dashboard.png)
 
 
 ## Frontend Setup 
